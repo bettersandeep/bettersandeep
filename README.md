@@ -8,13 +8,13 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bettersandeep)
 
-- 🔭 I’m currently working on - Data, Platform features and Infra improvement at [Spinny](https://spinny.com) 
+- 🔭 I’m currently working on - Data, Platform features and Infra improvement at [Famapp](https://famapp.in) 
 - 🌱 [I’m currently reading](https://singhsandeep.notion.site/What-I-am-reading-Sandeep-70e56937090b4301a1d0b5906e795240)
 - 💬 Ask me about backend engineering, databases, data pipeline, data science in production, aws, dev-ops, ml-ops, automation etc 
 - 😄 Pronouns: He/Him
 
 <!--
-**singhksandeep25/singhksandeep25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bettersandeep/bettersandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
