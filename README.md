@@ -12,6 +12,6 @@ Backend engineer in Bengaluru. I work on data, platform and infra at [FamApp](ht
 
 **Reading:** [what I am reading](https://singhsandeep.notion.site/What-I-am-reading-Sandeep-70e56937090b4301a1d0b5906e795240)
 
-[bettersandeep.com](https://bettersandeep.com) · [LinkedIn](https://www.linkedin.com/in/singhksandeep25/) · [X](https://x.com/bettersandeep) · [Medium](https://medium.com/@smartymcfly) · [Stack Overflow](https://stackoverflow.com/users/11362551/sandeep-singh)
+[bettersandeep.com](https://bettersandeep.com) · [LinkedIn](https://www.linkedin.com/in/singhksandeep25/) · [X](https://x.com/bettersandeep) · [Medium](https://medium.com/@bettersandeep) · [Stack Overflow](https://stackoverflow.com/users/11362551/sandeep-singh)
 
 Pronouns: he/him
